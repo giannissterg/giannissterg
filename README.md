@@ -1,18 +1,13 @@
-### Hi there 👋
+### Hola, I'm Giannis Stergiou 👋
 
-<!--
-**giannissterg/giannissterg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on finishing my degree in Computer Science
+- 🌱 I’m currently learning Dart & Spanish 
+- 👯 I’m looking to collaborate on Open Source Projects
+- 🤔 I’m looking for help with better documentation tools
+- 💬 Ask me about anything
+- 📫 How to reach me: [Twitter - @giannissterg](https://twitter.com/giannissterg)
+- 😄 Pronouns: Ste
+- ⚡ Fun fact: I love challenges
 -->
 
-<img src="https://github-readme-stats-navy-five.vercel.app/api?username=giannissterg&&show_icons=true">
+<img src="https://github-readme-stats-navy-five.vercel.app/api?username=giannissterg&&show_icons=true&&theme=radical">
