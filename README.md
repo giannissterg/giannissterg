@@ -8,6 +8,5 @@
 - 📫 How to reach me: [Twitter - @giannissterg](https://twitter.com/giannissterg)
 - 😄 Pronouns: Ste
 - ⚡ Fun fact: I love challenges
--->
 
-<img src="https://github-readme-stats-navy-five.vercel.app/api?username=giannissterg&&show_icons=true&&theme=radical">
+<img src="https://github-readme-stats-navy-five.vercel.app/api?username=giannissterg&&show_icons=true&&theme=vue-dark">
