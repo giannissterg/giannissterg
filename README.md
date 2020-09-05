@@ -18,6 +18,8 @@
 [<img align="left" alt="ste | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="ste | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+<br />
+
 ### Github Stats
 <img src="https://github-readme-stats-navy-five.vercel.app/api?username=giannissterg&&show_icons=true&&theme=vue-dark">
 
