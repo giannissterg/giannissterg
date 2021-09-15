@@ -20,8 +20,8 @@
 
 <br />
 
-### Github Stats
-<img src="https://github-readme-stats-navy-five.vercel.app/api?username=giannissterg&&show_icons=true&&theme=vue-dark">
+<!-- ### Github Stats -->
+<!-- <img src="https://github-readme-stats-navy-five.vercel.app/api?username=giannissterg&&show_icons=true&&theme=vue-dark"> -->
 
 [twitter]: https://twitter.com/giannissterg
 [facebook]: https://www.facebook.com/giannis.stergiou.9
